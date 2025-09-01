@@ -1,7 +1,7 @@
 # Trendy-Cart-Annual-Dashboard-in-excel
 This project analyzes the **annual performance of Trendy Cart**, focusing on sales, customer behavior, and product performance. The goal is to identify trends, top-performing categories, and key business insights that can help optimize decision-making.  
 ## Dataset used
-- <a href="https://github.com/bhavnarohit/Trendy-Cart-Annual-Dashboard-in-excel/blob/main/trendycart%20annual%20report.xlsx"
+- <a href="https://github.com/bhavnarohit/Trendy-Cart-Annual-Dashboard-in-excel/blob/main/trendycart%20annual%20report.xlsx"> Dataset </a>
 
 
 ## Questions (KPIs)
@@ -15,8 +15,7 @@ This project analyzes the **annual performance of Trendy Cart**, focusing on sal
 - Highest selling category?
 - Percentage of Total Orders delivered
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
-
+- Dashboard Interaction <a href="https://github.com/bhavnarohit/Trendy-Cart-Annual-Dashboard-in-excel/commit/65493c455ffa4b37c4dfcfc0167188dd5372f622">View Dashboard </a>
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
@@ -25,7 +24,7 @@ This project analyzes the **annual performance of Trendy Cart**, focusing on sal
 
 ## Dashboard
 
-  <a href="https://github.com/bhavnarohit/Trendy-Cart-Annual-Dashboard-in-excel/commit/65493c455ffa4b37c4dfcfc0167188dd5372f622"
+  <a href="https://github.com/bhavnarohit/Trendy-Cart-Annual-Dashboard-in-excel/commit/65493c455ffa4b37c4dfcfc0167188dd5372f622"> Dashboard </a>
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
