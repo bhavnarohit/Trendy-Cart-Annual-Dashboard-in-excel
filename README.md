@@ -1,5 +1,6 @@
 # Trendy-Cart-Annual-Dashboard-in-excel
-This project analyzes the **annual performance of Trendy Cart**, focusing on sales, customer behavior, and product performance. The goal is to identify trends, top-performing categories, and key business insights that can help optimize decision-making.  
+This project analyzes the **annual performance of Trendy Cart**, focusing on sales, customer behavior, and product performance. The Trendy Cart wants to create an annual sales report for 2024. So that, the owner of the Trendy Cart can understand their customers and grow more sales in 2025 & 2026
+
 ## Dataset used
 - <a href="https://github.com/bhavnarohit/Trendy-Cart-Annual-Dashboard-in-excel/blob/main/trendycart%20annual%20report.xlsx"> Dataset </a>
 
