@@ -1,7 +1,8 @@
 # Trendy-Cart-Annual-Dashboard-in-excel
 This project analyzes the **annual performance of Trendy Cart**, focusing on sales, customer behavior, and product performance. The goal is to identify trends, top-performing categories, and key business insights that can help optimize decision-making.  
 ## Dataset used
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+- <a href="https://github.com/bhavnarohit/Trendy-Cart-Annual-Dashboard-in-excel/blob/main/trendycart%20annual%20report.xlsx
+-  <a href="
 
 ## Questions (KPIs)
 - Compare the sales and orders using single chart.
